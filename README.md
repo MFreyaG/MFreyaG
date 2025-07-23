@@ -17,16 +17,9 @@
 
 ### 📂 What I’m working on
 
-- 🔧 Maintaining and evolving investment tools at [Prosperita](https://prosperita.com.br)  
+- 🔧 Maintaining and evolving investment tools at Prosperita
 - 🧪 Researching the feasibility and correctness of code migration with LLMs  
 - 🚀 Personal projects involving backend architecture, AI experiments, and developer tools
-
----
-
-### 📈 GitHub Stats
-
-![Matheus' GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheusgrandinetti&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusgrandinetti&layout=compact&theme=tokyonight)
 
 ---
 
